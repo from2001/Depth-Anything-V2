@@ -1,0 +1,8 @@
+.venv/
+*.pyc
+.DS_Store
+checkpoints/
+depth_vis/
+assets/examples/
+assets/examples_video/
+
